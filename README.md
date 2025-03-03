@@ -1,11 +1,9 @@
 # Overview
 
-This is a simple Hello World Program written in Python.
+This is a simple Hello World Program written in Python
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/CkPXwzaAp8A)
 
 # Development Environment
 
-I used Python.
-
-
+I used Python
